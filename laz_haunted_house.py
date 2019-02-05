@@ -1,3 +1,6 @@
+## This is a remake of my first Python game
+## Now using Object Oriented Programming
+
 class Scene(obejct):
 
     def enter(self):
